@@ -1,6 +1,6 @@
 
 	
-Capítulo 5 - La segunda Activty
+Capítulo 5 - La segunda Activity
 =======================================
 
 Libro: Programación con Android - Big Nerd Ranch
